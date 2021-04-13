@@ -1,2 +1,2 @@
 # First-Semester-HW
-This is a repository of my first semester homeworks for CSE Programming I lesson.
+This is a repository of my first semester homeworks for CSE-1141 Computer Programming I lesson.
