@@ -1,7 +1,7 @@
 /* This program calculates personal income tax based on 
  * the tax rates reported by The Turkish Revenue Administration.
  * 
- * Student Name - Student ID: Emir BÜÇKÜN - 150119024 */
+ * Student Name - Student ID: Emir BÃœÃ‡KÃœN - 150119024 */
 
 package hw2;
 
