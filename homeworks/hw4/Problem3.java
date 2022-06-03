@@ -1,6 +1,6 @@
 /* This program takes an input letter and outputs it in a diamond shape.
  *  
- * Student Name - No: Emir Büçkün - 150119024 */
+ * Student Name - No: Emir BÃ¼Ã§kÃ¼n - 150119024 */
 
 package hw4;
 
