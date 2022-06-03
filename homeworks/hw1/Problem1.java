@@ -1,7 +1,7 @@
 /* This program  converts the date, which is given in days, to 
- * “Year: <years>, Mount: <mounts>, Day: <days>” format.
+ * â€œYear: <years>, Mount: <mounts>, Day: <days>â€ format.
  * 
- * Student Name - Student ID: Emir BÜÇKÜN - 150119024 */
+ * Student Name - Student ID: Emir BÃœÃ‡KÃœN - 150119024 */
 
 package hw1;
 
