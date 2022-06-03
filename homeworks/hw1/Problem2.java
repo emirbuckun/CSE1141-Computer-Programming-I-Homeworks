@@ -2,7 +2,7 @@
  * The program asks user to enter value of principle, 
  * annual interest rate and time and finally calculates the compound interest.
  * 
- * Student Name - Student ID: Emir BÜÇKÜN - 150119024 */
+ * Student Name - Student ID: Emir BÃœÃ‡KÃœN - 150119024 */
 
 package hw1;
 
