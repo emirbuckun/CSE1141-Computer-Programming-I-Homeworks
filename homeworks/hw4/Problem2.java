@@ -1,7 +1,7 @@
 /* This program will determine whether or not a given 
  * credit card number is valid per the Luhn formula.
  *  
- * Student Name - No: Emir Büçkün - 150119024 */
+ * Student Name - No: Emir BÃ¼Ã§kÃ¼n - 150119024 */
 
 package hw4;
 
