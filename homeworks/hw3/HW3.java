@@ -2,7 +2,7 @@
  * shapes that are line, parabola and circle on the console screen.
  * I used x and y values in the coordinate system that range in [-10,10].
  * 
- * Student Name - Student ID: Emir BÜÇKÜN - 150119024 */
+ * Student Name - Student ID: Emir BÃœÃ‡KÃœN - 150119024 */
 
 package hw3;
 
